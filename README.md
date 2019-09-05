@@ -1,5 +1,7 @@
 BMI Calculator
-Fun application designed from  [dribble](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)
+
+Fun application designed from  [dribble](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
+
 This app is made with java and sqlite for local storage.
 
 # MAIN MENU
